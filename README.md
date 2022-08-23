@@ -62,7 +62,7 @@
  ## Script kod ile direkt node'umuzu kuruyoruz.
   
   ```
-  wget -qO aptos_validator.sh https://raw.githubusercontent.com/kj89/testnet_manuals/main/aptos/testnet/aptos_validator.sh && chmod +x aptos_validator.sh && ./aptos_validator.sh
+  wget -qO aptos_validator.sh https://raw.githubusercontent.com/pusulafinanslabs/Aptos-AIT3/main/aptos_validator.sh && chmod +x aptos_validator.sh && ./aptos_validator.sh
   ```
   
  ## Ardından değişkenleri sisteme kaydetmek için bu kod ile devam ediyoruz.
